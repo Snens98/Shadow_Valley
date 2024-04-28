@@ -1,0 +1,9 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material
+Ka 0.2 0.2 0.2                          // ambient color
+Kd 0.6 0.6 0.6                          // diffuseColor
+Ks 0.2 0.2 0.2                          // specular color
+Ke 0.0 0.0 0.0                          // Ke emmision color
+sharpness 10.5                           // Metallic look

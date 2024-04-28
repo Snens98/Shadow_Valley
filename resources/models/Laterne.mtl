@@ -1,0 +1,29 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+newmtl kleinerBalken
+Ka 0.1 0.1 0.1                      // ambient color
+Kd 0.1 0.1 0.1                         // diffuseColor
+Ks 0.1 0.1 0.1                         // specular color
+Ke 0.0 0.0 0.0                          // Ke emmision color
+sharpness 1.5                           // Metallic look
+
+newmtl grosserBalken
+Ka 0.1 0.1 0.1                      // ambient color
+Kd 0.1 0.1 0.1                         // diffuseColor
+Ks 0.1 0.1 0.1                         // specular color
+Ke 0.5 0.3 0.0                          // Ke emmision color
+sharpness 1.5                           // Metallic look
+
+newmtl kerze
+Ka 0.1 0.1 0.1                         // ambient color
+Kd 0.1 0.1 0.1                         // diffuseColor
+Ks 0.1 0.1 0.1                         // specular color
+Ke 0.8 0.6 0.0                          // Ke emmision color
+sharpness 1.5                           // Metallic look
+
+newmtl laterne                                                                                                                                                                                                                                                                                     newmtl kerze
+Ka 0.1 0.1 0.1                         // ambient color
+Kd 0.1 0.1 0.1                         // diffuseColor
+Ks 0.1 0.1 0.1                         // specular color
+Ke 0.0 0.0 0.0                          // Ke emmision color
+sharpness 1.5                           // Metallic look

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shadow_Valley:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shadow_Valley_jar</output-path>
+    <root id="archive" name="Shadow_Valley.jar">
+      <element id="module-output" name="Shadow_Valley" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joml-1.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OBJLoader-3.0.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
